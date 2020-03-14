@@ -19,7 +19,7 @@ This panel contains sections which have general options of the site.
 4. Preloader
 5. Popup
 
-![Image of Yaktocat](http://docs.uix.store/konte/_images/customize-general.png#alignright)
+<img align="right" src="http://docs.uix.store/konte/_images/customize-general.png">
 
 ## Site Identity
 
